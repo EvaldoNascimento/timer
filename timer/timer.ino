@@ -1,6 +1,6 @@
 /* ===============================================================
       Project: Timer to control relays
-       Author: Evaldo Nasciment0
+       Author: Evaldo Nascimento
       Created: 7th May 2018
   Arduino IDE: 1.8.5
       Website: 
